@@ -7,13 +7,6 @@
 
 ---
 
-## 🌟 Objetivo em Destaque  
-<p align="center">
-  <img src="https://img.shields.io/badge/BECOME%20A%20SOFTWARE%20ENGINEER-FC0362?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
 ## 🚀 Tecnologias e Ferramentas  
 
 <p align="center">
@@ -40,13 +33,20 @@
 
 ---
 
+## 🎴 Demon Slayer  
+
+<p align="center">
+  <img src="https://media.tenor.com/xeMb8V4FPBYAAAAC/tanjiro-kamado.gif" width="300" />
+  <img src="https://media.tenor.com/KF-fPgsr1P4AAAAC/inosuke.gif" width="300" />
+  <img src="https://media.tenor.com/_kcsEK_N3PoAAAAC/zenitsu.gif" width="300" />
+</p>
+
+---
+
 ## 📬 Entre em Contato  
 
 <p align="center">
   <a href="mailto:gustavomirandabrito2010@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5551998765432">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
