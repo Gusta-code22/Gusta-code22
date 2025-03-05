@@ -33,13 +33,7 @@
 
 ---
 
-## 🎴 Demon Slayer  
 
-<p align="center">
-  <img src="https://media.tenor.com/xeMb8V4FPBYAAAAC/tanjiro-kamado.gif" width="300" />
-  <img src="https://media.tenor.com/KF-fPgsr1P4AAAAC/inosuke.gif" width="300" />
-  <img src="https://media.tenor.com/_kcsEK_N3PoAAAAC/zenitsu.gif" width="300" />
-</p>
 
 ---
 
