@@ -1,5 +1,8 @@
-<h1 align="center">Oi, me chamo Gustavo! 👋</h1>
-<h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por Tecnologia</h3>
+<h1 align="center">
+  <span id="typing-text"></span>👋
+</h1>
+
+<h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por código limpo!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gusta-code22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -33,7 +36,13 @@
 
 ---
 
+## 🎴 Demon Slayer  
 
+<p align="center">
+  <img src="https://media.tenor.com/xeMb8V4FPBYAAAAC/tanjiro-kamado.gif" width="300" />
+  <img src="https://media.tenor.com/KF-fPgsr1P4AAAAC/inosuke.gif" width="300" />
+  <img src="https://media.tenor.com/_kcsEK_N3PoAAAAC/zenitsu.gif" width="300" />
+</p>
 
 ---
 
@@ -44,3 +53,16 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<script>
+  const text = "Oi, me chamo Gustavo!";
+  let i = 0;
+  function typeEffect() {
+    if (i < text.length) {
+      document.getElementById("typing-text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeEffect, 100); // Velocidade da digitação
+    }
+  }
+  typeEffect();
+</script>
