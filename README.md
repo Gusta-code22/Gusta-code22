@@ -1,5 +1,5 @@
 <h1 align="center">Oi, me chamo Gustavo! 👋</h1>
-<h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por código limpo!</h3>
+<h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por Tecnologia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gusta-code22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
