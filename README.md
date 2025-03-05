@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Oi, me chamo Gustavo! 👋</h1>
+<h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por código limpo!</h3>
 
-<!--
-**Gusta-code22/Gusta-code22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Objetivo em Destaque  
+<p align="center">
+  <img src="https://img.shields.io/badge/BECOME%20A%20SOFTWARE%20ENGINEER-FC0362?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Tecnologias e Ferramentas  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="90"/>
+</p>
+
+---
+
+## ⚡ Estatísticas do GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-dev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 📬 Entre em Contato  
+
+<p align="center">
+  <a href="mailto:gustavo@email.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5551998765432">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
