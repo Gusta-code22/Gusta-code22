@@ -46,7 +46,7 @@
 ## 📬 Entre em Contato  
 
 <p align="center">
-  <a href="mailto:gustavomirandabrito2010@gmail.com">
+  <a href="mailto:@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
