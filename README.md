@@ -1,7 +1,4 @@
-<h1 align="center">
-  <span id="typing-text"></span>👋
-</h1>
-
+<h1 align="center">Oi, me chamo Gustavo! 👋</h1>
 <h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por código limpo!</h3>
 
 <p align="center">
@@ -53,16 +50,3 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<script>
-  const text = "Oi, me chamo Gustavo!";
-  let i = 0;
-  function typeEffect() {
-    if (i < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeEffect, 100); // Velocidade da digitação
-    }
-  }
-  typeEffect();
-</script>
