@@ -2,7 +2,7 @@
 <h3 align="center">Apenas um futuro Engenheiro de Software apaixonado por código limpo!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gusta-code22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -31,11 +31,11 @@
 ## ⚡ Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gusta-code22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-dev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta-code22&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 📬 Entre em Contato  
 
 <p align="center">
-  <a href="mailto:gustavo@email.com">
+  <a href="mailto:gustavomirandabrito2010@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5551998765432">
