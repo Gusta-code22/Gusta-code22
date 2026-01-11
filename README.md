@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias 
 
 <!-- 🔹 VISUAL: todas juntas -->
 <p align="center">
@@ -30,13 +30,20 @@
 
 ---
 
-## 📌 Tecnologias e Ferramentas (Detalhado)
+## 🚀 Tecnologias e Ferramentas
 
 ### 💻 Linguagens
-- Java  
-- Python  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+</p>
 
 ### 🧰 Backend & Frameworks
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" />
+</p>
+
 - Spring Boot  
 - Spring MVC  
 - Spring Data JPA  
@@ -44,26 +51,46 @@
 - Spring Cloud (Config Server, OpenFeign)  
 
 ### 🗄️ Banco de Dados
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" />
+</p>
+
 - PostgreSQL  
-- Flyway  
+- Flyway (Versionamento de Banco)  
 
 ### ☁️ DevOps & Infraestrutura
-- Docker  
-- Kubernetes  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" />
+</p>
 
-### 🌐 Frontend
-- HTML5  
-- CSS3  
-- Angular  
-- Tailwind CSS  
+- Docker  
+- Kubernetes (conceitos e orquestração)  
+
+### 🌐 Frontend & UI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" />
+</p>
 
 ### 📊 Dados & Automação
-- Pandas  
-- Streamlit  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="90" />
+</p>
 
 ### 🔧 Ferramentas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" />
+</p>
+
 - Git & GitHub  
 - Postman  
+- APIs REST  
+- Arquitetura de Microsserviços  
 
 ---
 
