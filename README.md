@@ -64,10 +64,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
 </p>
 
 - Docker  
 - Kubernetes (conceitos e orquestração)  
+- **AWS (Amazon Web Services)**  
+- **Render (deploy de APIs e microsserviços)**  
+- Linux    
 
 ### 🌐 Frontend & UI
 <p align="center">
